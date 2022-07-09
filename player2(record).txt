@@ -1,0 +1,67 @@
+
+
+ >>>>>>>>>>> MAQ'S RECORD <<<<<<<<<<<<<<
+
+TURN # 1
+
+=========
+
+
+TOOK 0.000000 SEC TO DECIDE
+
+SELECTED BOX : 2
+
+BOX 2 CONTAINED : 2120 (cash)
+
+TURN # 2
+
+=========
+
+
+TOOK 0.000000 SEC TO DECIDE
+
+SELECTED BOX : 4
+
+BOX 4 CONTAINED : 193 (cash)
+
+TURN # 3
+
+=========
+
+
+TOOK 0.000000 SEC TO DECIDE
+
+SELECTED BOX : 5
+
+BOX 5 CONTAINED : 1896 (cash)
+
+TURN # 4
+
+=========
+
+
+TOOK 0.000000 SEC TO DECIDE
+
+SELECTED BOX : 9
+
+BOX 9 CONTAINED : 1860 (cash)
+
+TURN # 5
+
+=========
+
+
+TOOK 1.000000 SEC TO DECIDE
+
+SELECTED BOX : 10
+
+BOX 10 CONTAINED : 772 (cash)
+
+
+
+__________________________________________________
+
+      TOTAL: 6841
+
+__________________________________________________
+

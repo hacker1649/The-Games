@@ -1,0 +1,65 @@
+
+
+ >>>>>>>>>>> ANAS'S RECORD <<<<<<<<<<<<<<
+
+TURN # 1
+
+=========
+
+
+TOOK 2.000000 SEC TO DECIDE
+
+SELECTED BOX : 1
+
+BOX 1 CONTAINED : 1544 (cash)
+
+TURN # 2
+
+=========
+
+
+TOOK 1.000000 SEC TO DECIDE
+
+SELECTED BOX : 6
+
+BOX 6 CONTAINED : 1360 (cash)
+
+TURN # 3
+
+=========
+
+
+TOOK 2.000000 SEC TO DECIDE
+
+SELECTED BOX : 3
+
+BOX 3 CONTAINED : 1876 (cash)
+
+TURN # 4
+
+=========
+
+
+TOOK 7.000000 SEC TO DECIDE
+
+SELECTED BOX : 8
+
+BOX 8 CONTAINED : 2577 (cash)
+
+TURN # 5
+
+=========
+
+
+TOOK 1.000000 SEC TO DECIDE
+
+SELECTED BOX : 7
+
+BOX 7 CONTAINED : 1181 (cash)
+
+__________________________________________________
+
+      TOTAL: 8538
+
+__________________________________________________
+
